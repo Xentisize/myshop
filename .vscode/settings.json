@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/xens/.local/share/virtualenvs/myshop-mYYK5SZ5/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
